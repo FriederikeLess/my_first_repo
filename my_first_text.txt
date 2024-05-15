@@ -4,4 +4,4 @@ It will be uploaded to GitHub.
 
 Now I am writing something else and re-upload this file to GitHub.
 
-Test
+I don't get anything when I am typing "git diff --staged"
