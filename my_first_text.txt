@@ -6,4 +6,6 @@ Now I am writing something else and re-upload this file to GitHub.
 
 I don't get anything when I am typing "git diff --staged"
 
-Writing someting 
+Writing something 
+
+Writing something else
