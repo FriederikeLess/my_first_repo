@@ -11,4 +11,9 @@ git status --> has "git add "file"" been successful; meaning, hast something bee
 
 git commit -m "short comment about what have been changed" --> transfer the changes to the local repository
 
-gut push --> upload the changes to the remote repository for to be available to everyone
+git log --> show all the commits made and which commit is the active one on the remote repository and which one is 
+            is still in the local repository
+
+git log --pretty=oneline --> same as "git log", but much better to read, because every commit is on 1 line
+
+git push --> upload the changes to the remote repository on GitHub
